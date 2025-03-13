@@ -1,1 +1,1 @@
-docker-compose -f host3.yaml up -d
+docker compose -f host3.yaml up -d

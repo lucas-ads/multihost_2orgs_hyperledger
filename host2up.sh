@@ -1,1 +1,1 @@
-docker-compose -f host2.yaml up -d
+docker compose -f host2.yaml up -d
